@@ -2,3 +2,5 @@
 env/
 *.env
 *.csv
+*.npy
+*.dill

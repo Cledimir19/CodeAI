@@ -4,3 +4,4 @@ env/
 *.csv
 *.npy
 *.dill
+__pycache__/
